@@ -1,27 +1,27 @@
 ---
-description: Vous pouvez remplacer un fichier dans la bibliothèque Adobe Experience Cloud.
-seo-description: Vous pouvez remplacer un fichier dans la bibliothèque Adobe Experience Cloud.
-seo-title: Remplacer un fichier
-solution: Experience Manager
-title: Remplacer un fichier
-uuid: c 83 a 3 b 28-8 b 9 f -4457-affa -948 e 71 cbf 784
-translation-type: tm+mt
+description: Vous pouvez remplacer une ressource dans la bibliothèque Adobe Experience Cloud.
+seo-description: Vous pouvez remplacer une ressource dans la bibliothèque Adobe Experience Cloud.
+seo-title: Remplacement d’une ressource
+solution: Experience Manager
+title: Remplacement d’une ressource
+uuid: c83a3b28-8b9f-4457-affa-948e71cbf784
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Remplacer un fichier{#replace-an-asset}
+# Remplacement d’une ressource{#replace-an-asset}
 
-Vous pouvez remplacer un fichier dans la bibliothèque Adobe Experience Cloud.
+Vous pouvez remplacer une ressource dans la bibliothèque Adobe Experience Cloud.
 
-Pour remplacer un fichier dans la bibliothèque Experience Cloud :
+Pour remplacer une ressource dans la bibliothèque Experience Cloud, procédez comme suit :
 
-1. Cliquez sur un élément.
-1. Cliquez sur le **[!UICONTROL menu Plus d'options]** (points de suspension) en regard du fichier.
+1. Cliquez sur une ressource.
+1. Cliquez sur le menu **[!UICONTROL Plus d’options]** (ellipse) en regard de la ressource.
 
    ![](assets/library_asset_options.png)
 
-1. Cliquez **[!UICONTROL sur Remplacer]**.
-1. Sélectionnez le nouveau fichier pour remplacer l'ancien.
+1. Cliquez sur **[!UICONTROL Remplacer]**.
+1. Sélectionnez la nouvelle ressource qui remplacera l’ancienne.
 
