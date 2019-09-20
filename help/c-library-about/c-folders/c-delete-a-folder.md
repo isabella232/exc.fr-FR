@@ -1,28 +1,28 @@
 ---
-description: Vous pouvez corbeille un dossier dans la bibliothèque Adobe Experience Cloud.
-seo-description: Vous pouvez corbeille un dossier dans la bibliothèque Adobe Experience Cloud.
-seo-title: Corbeille d'un dossier
-solution: Experience Manager
-title: Corbeille d'un dossier
-uuid: 0 e 1 c 5 ef 2-188 e -4012-92 db -900 b 9 d 5732 cf
-translation-type: tm+mt
+description: Dans la bibliothèque Adobe Experience Cloud, vous pouvez mettre un dossier à la corbeille.
+seo-description: Dans la bibliothèque Adobe Experience Cloud, vous pouvez mettre un dossier à la corbeille.
+seo-title: Mise à la corbeille d’un dossier
+solution: Experience Manager
+title: Mise à la corbeille d’un dossier
+uuid: 0e1c5ef2-188e-4012-92db-900b9d5732cf
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Corbeille d'un dossier{#trash-a-folder}
+# Mise à la corbeille d’un dossier{#trash-a-folder}
 
-Vous pouvez corbeille un dossier dans la bibliothèque Adobe Experience Cloud.
+Dans la bibliothèque Adobe Experience Cloud, vous pouvez mettre un dossier à la corbeille.
 
-Pour corbeille un dossier dans la bibliothèque Experience Cloud :
+Pour mettre à la corbeille un dossier dans la bibliothèque Experience Cloud, procédez comme suit :
 
-1. Cliquez sur le dossier dans la corbeille.
-1. Cliquez sur le **[!UICONTROL menu Plus d'options]** (points de suspension) et sélectionnez **[!UICONTROL Corbeille.]**
+1. Cliquez sur le dossier à mettre à la corbeille.
+1. Cliquez sur le menu **[!UICONTROL Plus d’options]** (ellipse) et sélectionnez **[!UICONTROL Corbeille]**.
 
    ![](assets/library_folder_trash.png)
 
-1. Confirmez que vous souhaitez corbeille le dossier.
+1. Confirmez que vous souhaitez mettre le dossier à la corbeille.
 
    ![](assets/library_folder_trash_confirm.png)
 
