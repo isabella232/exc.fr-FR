@@ -1,26 +1,26 @@
 ---
-description: Utilisez l'éditeur d'images de base intégré à la bibliothèque Adobe Experience Cloud pour modifier une image activée directement à partir de la bibliothèque.
-seo-description: Utilisez l'éditeur d'images de base intégré à la bibliothèque Adobe Experience Cloud pour modifier une image activée directement à partir de la bibliothèque.
-seo-title: Modification d'une image
-solution: Experience Manager
-title: Modification d'une image
-uuid: 0 fc 38989-fcce -4177-95 af -2488 ef 0 a 3 c 5 c
-translation-type: tm+mt
+description: À l’aide de l’éditeur d’image de base intégré à la bibliothèque Adobe Experience Cloud, modifiez une image directement dans la bibliothèque.
+seo-description: À l’aide de l’éditeur d’image de base intégré à la bibliothèque Adobe Experience Cloud, modifiez une image directement dans la bibliothèque.
+seo-title: Modification d’une image
+solution: Experience Manager
+title: Modification d’une image
+uuid: 0fc38989-fcce-4177-95af-2488ef0a3c5c
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Modification d'une image{#edit-an-image}
+# Modification d’une image{#edit-an-image}
 
-Utilisez l'éditeur d'images de base intégré à la bibliothèque Adobe Experience Cloud pour modifier une image activée directement à partir de la bibliothèque.
+À l’aide de l’éditeur d’image de base intégré à la bibliothèque Adobe Experience Cloud, modifiez une image directement dans la bibliothèque.
 
-Pour modifier une image à partir de la bibliothèque Experience Cloud :
+Pour modifier une image de la bibliothèque Experience Cloud, procédez comme suit :
 
 1. Cliquez sur une image à modifier.
-1. Cliquez sur Modifier l'image. Lorsque vous enregistrez l'image, elle sera enregistrée sous forme de nouvelle version.
+1. Cliquez sur Modifier l’image. Lorsque vous enregistrez l’image, elle est enregistrée comme une nouvelle version.
 
-   L'éditeur d'images s'ouvre et vous pouvez modifier l'image.
+   Dans l’éditeur d’image qui s’ouvre, vous pouvez modifier l’image.
 
    ![](assets/library_image_editor.png)
 
