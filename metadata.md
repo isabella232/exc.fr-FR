@@ -1,16 +1,16 @@
 ---
 cloud: experience-cloud
-product: Exc
+product: ExC
 solution-title: Services principaux Experience Cloud
 solution-hub-url: https://helpx.adobe.com/fr/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: Prise en main
 getting-started-url: https://helpx.adobe.com/fr/experience-cloud-core-services/get-started.html
-tutorials-title: Campaign Standard
+tutorials-title: Campaign Standard
 tutorials-url: https://helpx.adobe.com/fr/support/experience-cloud/core-services.html
 git-repo: https://github.com/AdobeDocs/exc.en
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: cbe7cdc8031e57dd66d7801a6dbf6e7df959a6bd
 
 ---
@@ -33,7 +33,7 @@ Le fichier metadata.md comprend des métadonnées de niveau référentiel qui so
 | tutorials-url | Lien vers des tutoriels vidéo : tutoriels helpx ou KT. |
 | mini-toc-levels | Détermine le nombre de niveaux d’en-tête qui apparaissent dans le rail de droite. La valeur par défaut est 2. |
 | git-repo | Indique l’emplacement du référentiel de collaboration. Utilisez le miroir github.com pour les documents publics. |
-| index | set index = no for soft launch |
+| index | Définit l’index = pas pour les prélancements |
 
 Dans le fichier TOC.md
 
