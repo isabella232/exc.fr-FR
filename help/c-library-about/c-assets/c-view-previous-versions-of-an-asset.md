@@ -1,29 +1,29 @@
 ---
-description: Vous pouvez afficher les versions précédentes d'un fichier dans la bibliothèque Adobe Experience Cloud.
-seo-description: Vous pouvez afficher les versions précédentes d'un fichier dans la bibliothèque Adobe Experience Cloud.
-seo-title: Afficher les versions précédentes d'un fichier
-solution: Experience Manager
-title: Afficher les versions précédentes d'un fichier
-uuid: 0 fef 9 a 0 f-ba 9 f -49 cf-a 49 c-b 7 f 2 f 8022 f 32
-translation-type: tm+mt
+description: Vous pouvez afficher les versions précédentes d’une ressource dans la bibliothèque Adobe Experience Cloud.
+seo-description: Vous pouvez afficher les versions précédentes d’une ressource dans la bibliothèque Adobe Experience Cloud.
+seo-title: Affichage des versions précédentes d’une ressource
+solution: Experience Manager
+title: Affichage des versions précédentes d’une ressource
+uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Afficher les versions précédentes d'un fichier{#view-previous-versions-of-an-asset}
+# Affichage des versions précédentes d’une ressource{#view-previous-versions-of-an-asset}
 
-Vous pouvez afficher les versions précédentes d'un fichier dans la bibliothèque Adobe Experience Cloud.
+Vous pouvez afficher les versions précédentes d’une ressource dans la bibliothèque Adobe Experience Cloud.
 
-Pour afficher les versions précédentes d'un fichier dans la bibliothèque Experience Cloud :
+Pour afficher les versions précédentes d’une ressource dans la bibliothèque Adobe Experience Cloud, procédez comme suit :
 
-1. Sélectionnez un fichier.
-1. Sélectionnez le **[!UICONTROL menu Plus d'options]** (points de suspension) en regard du fichier.
+1. Sélectionnez une ressource.
+1. Cliquez sur le menu **[!UICONTROL Plus d’options]** (ellipse) en regard de la ressource.
 
    ![](assets/library_asset_options.png)
 
 1. Sélectionnez **[!UICONTROL Détails de la ressource]**.
-1. Sélectionnez **[!UICONTROL Afficher tout]** en regard de Versions pour afficher toutes les versions du fichier.
+1. Pour afficher toutes les versions de la ressource, cliquez sur **[!UICONTROL Afficher tout]** en regard de Versions.
 
    ![](assets/library_details_versions.png)
 
