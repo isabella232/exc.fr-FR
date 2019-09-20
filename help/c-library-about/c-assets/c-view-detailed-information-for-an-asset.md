@@ -1,28 +1,28 @@
 ---
-description: Affichez des informations détaillées sur les ressources, y compris les versions, dans la bibliothèque Adobe Experience Cloud.
-seo-description: Affichez des informations détaillées sur les ressources, y compris les versions, dans la bibliothèque Adobe Experience Cloud.
-seo-title: Afficher des informations détaillées pour un fichier
-solution: Experience Manager
-title: Afficher des informations détaillées pour un fichier
-uuid: 030511 fd-b 6 b 5-4 fe 8-b 129-d 9937 d 1133 a 4
-translation-type: tm+mt
+description: Affichez des informations détaillées sur les ressources, y compris leur version, dans la bibliothèque Adobe Experience Cloud.
+seo-description: Affichez des informations détaillées sur les ressources, y compris leur version, dans la bibliothèque Adobe Experience Cloud.
+seo-title: Affichage des informations détaillées d’une ressource
+solution: Experience Manager
+title: Affichage des informations détaillées d’une ressource
+uuid: 030511fd-b6b5-4fe8-b129-d9937d1133a4
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Afficher des informations détaillées pour un fichier{#view-detailed-information-for-an-asset}
+# Affichage des informations détaillées d’une ressource{#view-detailed-information-for-an-asset}
 
-Affichez des informations détaillées sur les ressources, y compris les versions, dans la bibliothèque Adobe Experience Cloud.
+Affichez des informations détaillées sur les ressources, y compris leur version, dans la bibliothèque Adobe Experience Cloud.
 
-Pour afficher des informations détaillées sur les ressources, y compris les versions, dans la bibliothèque Experience Cloud :
+Pour afficher des informations détaillées sur les ressources, y compris leur version, dans la bibliothèque Adobe Experience Cloud, procédez comme suit :
 
-1. Cliquez sur un élément.
-1. Cliquez sur le **[!UICONTROL menu Plus d'options]** (points de suspension) en regard du fichier.
+1. Cliquez sur une ressource.
+1. Cliquez sur le menu **[!UICONTROL Plus d’options]** (ellipse) en regard de la ressource.
 
    ![](assets/library_asset_options.png)
 
-1. Cliquez sur **[!UICONTROL Afficher les détails]** pour afficher plus de détails sur un fichier.
+1. Cliquez sur **[!UICONTROL Afficher les détails]** pour afficher plus de détails sur une ressource.
 
    ![](assets/library_details_versions.png)
 
