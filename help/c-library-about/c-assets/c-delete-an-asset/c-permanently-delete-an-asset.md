@@ -1,32 +1,32 @@
 ---
-description: Vous pouvez supprimer définitivement un fichier coupé dans la bibliothèque Adobe Experience Cloud.
-seo-description: Vous pouvez supprimer définitivement un fichier coupé dans la bibliothèque Adobe Experience Cloud.
-seo-title: Suppression définitive d'un fichier coupé
-solution: Experience Manager
-title: Suppression définitive d'un fichier coupé
-uuid: 593713 aa -5 b 86-4474-a 462-c 1173 fdf 8 dc 7
-translation-type: tm+mt
+description: Vous pouvez supprimer définitivement une ressource mise à la corbeille dans la bibliothèque Adobe Experience Cloud.
+seo-description: Vous pouvez supprimer définitivement une ressource mise à la corbeille dans la bibliothèque Adobe Experience Cloud.
+seo-title: Suppression définitive d’une ressource mise à la corbeille
+solution: Experience Manager
+title: Suppression définitive d’une ressource mise à la corbeille
+uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Suppression définitive d'un fichier coupé{#permanently-delete-a-trashed-asset}
+# Suppression définitive d’une ressource mise à la corbeille{#permanently-delete-a-trashed-asset}
 
-Vous pouvez supprimer définitivement un fichier coupé dans la bibliothèque Adobe Experience Cloud.
+Vous pouvez supprimer définitivement une ressource mise à la corbeille dans la bibliothèque Adobe Experience Cloud.
 
-Lorsque vous corbeillez un élément, il se trouve dans la zone Éléments enfoncés de la bibliothèque Experience Cloud pendant 60 jours. Si vous ne restaurez pas les éléments, la bibliothèque Experience Cloud les supprime définitivement après 60 jours.
+Lorsque vous placez une ressource dans la corbeille d’Experience Cloud, elle y reste pendant 60 jours. Si vous ne restaurez pas les éléments de la corbeille, la bibliothèque Experience Cloud les supprime définitivement après 60 jours.
 
-Vous pouvez supprimer définitivement un fichier coupé à plus de 60 jours par :
+Vous pouvez supprimer définitivement une ressource mise à la corbeille avant la fin du délai de 60 jours en procédant comme suit :
 
-1. Cliquez **[!UICONTROL sur Éléments enfoncés]**.
+1. Cliquez sur les **[!UICONTROL éléments mis à la corbeille]**.
 
    ![](assets/library_general_trashed_items.png)
 
-1. Cliquez sur un ou plusieurs éléments pour les supprimer définitivement.
-1. Cliquez sur **[!UICONTROL Plus d'informations &gt; Supprimer définitivement]**.
+1. Cliquez sur un ou plusieurs éléments à supprimer définitivement.
+1. Cliquez sur **[!UICONTROL Plus d’informations &gt; Supprimer définitivement]**.
 
    ![](assets/library_restore_perm_delete.png)
 
-1. Confirmez que vous souhaitez supprimer définitivement les fichiers sélectionnés.
+1. Confirmez que vous souhaitez supprimer définitivement les ressources sélectionnées.
 
