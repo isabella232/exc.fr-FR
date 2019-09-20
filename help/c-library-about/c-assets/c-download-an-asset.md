@@ -1,24 +1,24 @@
 ---
-description: Vous pouvez télécharger un fichier dans la bibliothèque Adobe Experience Cloud.
-seo-description: Vous pouvez télécharger un fichier dans la bibliothèque Adobe Experience Cloud.
-seo-title: Télécharger un fichier
-solution: Experience Manager
-title: Télécharger un fichier
-uuid: f 38 ecdc 5-e 0 de -46 f 5-bfbc-fb 45 cabedac 3
-translation-type: tm+mt
+description: Vous pouvez télécharger une ressource dans la bibliothèque Adobe Experience Cloud.
+seo-description: Vous pouvez télécharger une ressource dans la bibliothèque Adobe Experience Cloud.
+seo-title: Téléchargement d’une ressource
+solution: Experience Manager
+title: Téléchargement d’une ressource
+uuid: f38ecdc5-e0de-46f5-bfbc-fb45cabedac3
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Télécharger un fichier{#download-an-asset}
+# Téléchargement d’une ressource{#download-an-asset}
 
-Vous pouvez télécharger un fichier dans la bibliothèque Adobe Experience Cloud.
+Vous pouvez télécharger une ressource dans la bibliothèque Adobe Experience Cloud.
 
-1. Cliquez sur un élément.
-1. Cliquez sur le **[!UICONTROL menu Plus d'options]** (points de suspension) en regard du fichier.
+1. Cliquez sur une ressource.
+1. Cliquez sur le menu **[!UICONTROL Plus d’options]** (ellipse) en regard de la ressource.
 
    ![](assets/library_asset_options.png)
 
-1. Cliquez **[!UICONTROL sur Télécharger]** pour télécharger le fichier.
+1. Cliquez sur **[!UICONTROL Télécharger]** pour télécharger la ressource.
 
