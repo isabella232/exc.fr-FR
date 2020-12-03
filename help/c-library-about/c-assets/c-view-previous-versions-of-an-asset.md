@@ -2,11 +2,14 @@
 description: Vous pouvez afficher les versions précédentes d’une ressource dans la bibliothèque Adobe Experience Cloud.
 seo-description: Vous pouvez afficher les versions précédentes d’une ressource dans la bibliothèque Adobe Experience Cloud.
 seo-title: Affichage des versions précédentes d’une ressource
-solution: Experience Manager
+solution: Experience Manager
 title: Affichage des versions précédentes d’une ressource
 uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
