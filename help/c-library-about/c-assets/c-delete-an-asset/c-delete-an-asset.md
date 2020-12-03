@@ -2,11 +2,14 @@
 description: Vous pouvez mettre à la corbeille une ressource dans la bibliothèque Adobe Experience Cloud pour la supprimer de la bibliothèque.
 seo-description: Vous pouvez mettre à la corbeille une ressource dans la bibliothèque Adobe Experience Cloud pour la supprimer de la bibliothèque.
 seo-title: Mise à la corbeille d’une ressource
-solution: Experience Manager
+solution: Experience Manager
 title: Mise à la corbeille d’une ressource
 uuid: 7c472517-9d58-4b8a-9f71-6b651901a44b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
