@@ -2,11 +2,14 @@
 description: Affichez des informations détaillées sur les ressources, y compris leur version, dans la bibliothèque Adobe Experience Cloud.
 seo-description: Affichez des informations détaillées sur les ressources, y compris leur version, dans la bibliothèque Adobe Experience Cloud.
 seo-title: Affichage des informations détaillées d’une ressource
-solution: Experience Manager
+solution: Experience Manager
 title: Affichage des informations détaillées d’une ressource
 uuid: 030511fd-b6b5-4fe8-b129-d9937d1133a4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
