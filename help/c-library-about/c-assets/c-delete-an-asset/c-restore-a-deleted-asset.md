@@ -2,11 +2,14 @@
 description: Vous pouvez restaurer une ressource mise à la corbeille dans la bibliothèque Adobe Experience Cloud.
 seo-description: Vous pouvez restaurer une ressource mise à la corbeille dans la bibliothèque Adobe Experience Cloud.
 seo-title: Restauration d’une ressource mise à la corbeille
-solution: Experience Manager
+solution: Experience Manager
 title: Restauration d’une ressource mise à la corbeille
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ Pour restaurer une ressource mise à la corbeille avant la fin de délai de 60 
    ![](assets/library_general_trashed_items.png)
 
 1. Cliquez sur un ou plusieurs éléments à restaurer.
-1. Cliquez sur **[!UICONTROL Plus d’informations &gt; Restaurer]**.
+1. Cliquez sur **[!UICONTROL Plus d’informations > Restaurer]**.
 
    ![](assets/library_restore_perm_delete.png)
 
