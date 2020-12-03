@@ -2,11 +2,14 @@
 description: Vous pouvez remplacer une ressource dans la bibliothèque Adobe Experience Cloud.
 seo-description: Vous pouvez remplacer une ressource dans la bibliothèque Adobe Experience Cloud.
 seo-title: Remplacement d’une ressource
-solution: Experience Manager
+solution: Experience Manager
 title: Remplacement d’une ressource
 uuid: c83a3b28-8b9f-4457-affa-948e71cbf784
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 100%
 
 ---
 
