@@ -2,11 +2,14 @@
 description: À l’aide de l’éditeur d’image de base intégré à la bibliothèque Adobe Experience Cloud, modifiez une image directement dans la bibliothèque.
 seo-description: À l’aide de l’éditeur d’image de base intégré à la bibliothèque Adobe Experience Cloud, modifiez une image directement dans la bibliothèque.
 seo-title: Modification d’une image
-solution: Experience Manager
+solution: Experience Manager
 title: Modification d’une image
 uuid: 0fc38989-fcce-4177-95af-2488ef0a3c5c
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 100%
 
 ---
 
