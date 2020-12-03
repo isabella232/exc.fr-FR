@@ -2,11 +2,14 @@
 description: Vous pouvez supprimer définitivement une ressource mise à la corbeille dans la bibliothèque Adobe Experience Cloud.
 seo-description: Vous pouvez supprimer définitivement une ressource mise à la corbeille dans la bibliothèque Adobe Experience Cloud.
 seo-title: Suppression définitive d’une ressource mise à la corbeille
-solution: Experience Manager
+solution: Experience Manager
 title: Suppression définitive d’une ressource mise à la corbeille
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ Vous pouvez supprimer définitivement une ressource mise à la corbeille avant l
    ![](assets/library_general_trashed_items.png)
 
 1. Cliquez sur un ou plusieurs éléments à supprimer définitivement.
-1. Cliquez sur **[!UICONTROL Plus d’informations &gt; Supprimer définitivement]**.
+1. Cliquez sur **[!UICONTROL Plus d’informations > Supprimer définitivement]**.
 
    ![](assets/library_restore_perm_delete.png)
 
