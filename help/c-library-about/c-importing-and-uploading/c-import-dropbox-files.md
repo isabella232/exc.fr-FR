@@ -2,11 +2,14 @@
 description: Importez des fichiers depuis Dropbox vers la bibliothèque Adobe Experience Cloud afin de les gérer depuis n’importe quel produit Adobe Experience Cloud.
 seo-description: Importez des fichiers depuis Dropbox vers la bibliothèque Adobe Experience Cloud afin de les gérer depuis n’importe quel produit Adobe Experience Cloud.
 seo-title: Importation de fichiers Dropbox dans la bibliothèque Adobe Experience Cloud
-solution: Experience Manager
+solution: Experience Manager
 title: Importation de fichiers Dropbox dans la bibliothèque Adobe Experience Cloud
 uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '164'
+ht-degree: 98%
 
 ---
 
@@ -21,7 +24,7 @@ Importez des fichiers depuis Dropbox vers la bibliothèque Adobe Experience Cl
 
 Pour importer des fichiers Dropbox dans la bibliothèque Experience Cloud, procédez comme suit :
 
-1. Sélectionnez **[!UICONTROL Nouveau]** &gt; **[!UICONTROL Importer]**.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
