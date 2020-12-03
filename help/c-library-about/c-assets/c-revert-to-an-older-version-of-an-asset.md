@@ -2,11 +2,14 @@
 description: Vous pouvez revenir à une ancienne version d’une ressource dans la bibliothèque Adobe Experience Cloud.
 seo-description: Vous pouvez revenir à une ancienne version d’une ressource dans la bibliothèque Adobe Experience Cloud.
 seo-title: Restauration d’une ancienne version d’une ressource
-solution: Experience Manager
+solution: Experience Manager
 title: Restauration d’une ancienne version d’une ressource
 uuid: 57922668-2ad8-4670-a02b-0086151ac539
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 100%
 
 ---
 
