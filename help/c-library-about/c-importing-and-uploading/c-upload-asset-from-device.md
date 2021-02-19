@@ -20,7 +20,7 @@ Transférez des ressources de votre appareil pour les gérer dans la bibliothèq
 
 Pour transférer des ressources de votre appareil vers la bibliothèque Experience Cloud, procédez comme suit :
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
+1. Sélectionnez **[!UICONTROL Nouveau]** > **[!UICONTROL Télécharger]**.
 
    ![](assets/library_new_folder_upload.png)
 
