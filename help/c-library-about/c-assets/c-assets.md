@@ -3,7 +3,7 @@ description: Gérez les ressources dans les outils de la bibliothèque Adobe Ex
 seo-description: Gérez les ressources dans les outils de la bibliothèque Adobe Experience Cloud afin de retrouver facilement leurs détails et leurs versions et de les utiliser.
 seo-title: Assets
 solution: Experience Manager
-title: Assets
+title: Ressources
 uuid: dcb38464-a90e-45f8-8ff1-0881f31d46ac
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
