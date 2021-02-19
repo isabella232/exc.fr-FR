@@ -20,7 +20,7 @@ Pour organiser les ressources, vous pouvez créer un dossier dans la bibliothèq
 
 Pour créer un dossier dans la bibliothèque Experience Cloud, procédez comme suit :
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Folder]**.
+1. Sélectionnez **[!UICONTROL Nouveau]** > **[!UICONTROL Dossier]**.
 
    ![](assets/library_new_folder_upload.png)
 
