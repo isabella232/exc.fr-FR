@@ -24,7 +24,7 @@ Importez des fichiers depuis Creative Cloud vers la bibliothèque Adobe Experi
 
 Pour importer des fichiers Creative Cloud dans la bibliothèque Experience Cloud, procédez comme suit :
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
+1. Sélectionnez **[!UICONTROL Nouveau]** > **[!UICONTROL Importer]**.
 
    ![](assets/library_new_folder_upload.png)
 
