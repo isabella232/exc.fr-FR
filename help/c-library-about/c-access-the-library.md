@@ -20,7 +20,7 @@ Accédez à la bibliothèque Adobe Experience Cloud à l’aide des informatio
 
 Pour accéder à la bibliothèque Experience Cloud, procédez comme suit :
 
-1. Enter the [ExC Library](https://experiencecloud.adobe.com/library).
+1. Saisissez la [bibliothèque ExC](https://experiencecloud.adobe.com/library).
 1. Utilisez vos informations d’identification IMS.
 1. Assurez-vous que l’organisation est correcte. Si vous ne pouvez pas accéder à la bibliothèque Experience Cloud pour l’organisation appropriée, contactez votre administrateur.
 
