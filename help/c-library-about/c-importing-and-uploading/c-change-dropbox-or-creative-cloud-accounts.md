@@ -22,7 +22,7 @@ Lorsque vous vous connectez à un compte Dropbox ou Creative Cloud, vous restez
 
 Pour passer à un autre compte Dropbox ou Creative Cloud, procédez comme suit :
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
+1. Sélectionnez **[!UICONTROL Nouveau]** > **[!UICONTROL Importer]**.
 
    ![](assets/library_new_folder_upload.png)
 
