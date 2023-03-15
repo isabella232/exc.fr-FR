@@ -11,4 +11,4 @@ ht-degree: 100%
 
 # Aide de la bibliothèque Experience Cloud {#using}
 
-+ [Bibliothèque d’Adobe Experience Cloud](c-library-about/overview.md)
++ [Bibliothèque d’Adobe Experience Cloud](c-library-about/overview.md)
