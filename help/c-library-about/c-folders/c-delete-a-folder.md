@@ -1,14 +1,13 @@
 ---
 description: Dans la bibliothèque Adobe Experience Cloud, vous pouvez mettre un dossier à la corbeille.
-seo-description: Dans la bibliothèque Adobe Experience Cloud, vous pouvez mettre un dossier à la corbeille.
-seo-title: Mise à la corbeille d’un dossier
+seo-description: You can trash a folder in the Adobe Experience Cloud Library.
+seo-title: Trash a Folder
 solution: Experience Manager
 title: Mise à la corbeille d’un dossier
 uuid: 0e1c5ef2-188e-4012-92db-900b9d5732cf
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '60'
 ht-degree: 100%
 
 ---

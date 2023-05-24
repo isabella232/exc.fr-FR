@@ -1,14 +1,13 @@
 ---
 description: Transférez des ressources de votre appareil pour les gérer dans la bibliothèque Adobe Experience Cloud.
-seo-description: Transférez des ressources de votre appareil pour les gérer dans la bibliothèque Adobe Experience Cloud.
-seo-title: Transfert d’une ressource d’un appareil
+seo-description: Upload assets from your device to manage them in the Adobe Experience Cloud Library.
+seo-title: Upload Asset from Device
 solution: Experience Manager
 title: Transfert d’une ressource d’un appareil
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '77'
 ht-degree: 96%
 
 ---
@@ -20,7 +19,7 @@ Transférez des ressources de votre appareil pour les gérer dans la bibliothèq
 
 Pour transférer des ressources de votre appareil vers la bibliothèque Experience Cloud, procédez comme suit :
 
-1. Sélectionnez **[!UICONTROL Nouveau]** > **[!UICONTROL Télécharger]**.
+1. Sélectionner **[!UICONTROL Nouveau]** > **[!UICONTROL Télécharger]**.
 
    ![](assets/library_new_folder_upload.png)
 
